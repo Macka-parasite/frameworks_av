@@ -42,6 +42,7 @@ cc_library_shared {
         "camera_needs_client_info_lib_oplus_defaults",
         "needs_camera_boottime_defaults",
         "camera_package_name_defaults",
+        "includes_miui_camera",
     ],
 
     // Camera service source
